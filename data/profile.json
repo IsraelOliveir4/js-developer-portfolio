@@ -26,6 +26,10 @@
       {
         "name": "Nodejs",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       }
     ],
     "softSkills": [
@@ -33,7 +37,8 @@
       "Liderança",
       "Trabalho em equipe",
       "Flexibilidade",
-      "Organização"
+      "Organização",
+      "Facilidade em aprender"
     ]
   },
   "languages": [
@@ -46,8 +51,13 @@
       "github": true
     },
     {
-      "name": "Projeto de JavaScript na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/IsraelOliveir4/js-developer-portfolio",
+      "name": "To-do list com tela de login",
+      "url": "https://github.com/IsraelOliveir4/TO-DO-LIST",
+      "github": true
+    },
+    {
+      "name": "Abertura de conta bancaria com JAVA",
+      "url": "https://github.com/IsraelOliveir4/Simulando-Conta-Bancaria",
       "github": true
     }
   ],
@@ -55,7 +65,7 @@
     {
       "name": "Auxiliar de Automação / GRUPO DASS",
       "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de profissionais excepcionais e construir tantas inovações."
+      "description": "Desenvolvimento de aplicativos mobile Low Code, Criação de scripts para automação de relatórios, Desenvolvimento de DashBoards com DataStudio, Programação de microcontroladores com a linguagem C++, Análise e acompanhamento de Dados, Acompanhamento, implantação e treinamentos  de novos sistemas."
     }
   ]
 }
